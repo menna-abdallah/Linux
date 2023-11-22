@@ -52,7 +52,6 @@
 
 
 ### 7. You are in /usr/bin, list four ways to go to your home directory
-![7](https://github.com/menna-abdallah/Linux/assets/139376864/8376987a-2400-412a-9304-fe07c1d1a122)
 
 
 ### 8. List Linux commands in /usr/bin that start with letter w
@@ -75,4 +74,3 @@
 
 ### 13.Display a list of all the commands that contain the keyword passwd in their man page.
 ![13](https://github.com/menna-abdallah/Linux/assets/139376864/17a6db3a-62e6-44cf-b502-91539abd5f7b)
-![UNFOUND]()![13](https://github.com/menna-abdallah/Linux/assets/139376864/0697e969-888e-479b-aaad-69d61c730c57)
