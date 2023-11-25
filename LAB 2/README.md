@@ -39,8 +39,7 @@
 ![10](https://github.com/menna-abdallah/Linux/assets/139376864/7bfbf483-bcb8-4e58-bd06-79b723d54462)
 
 
-### 11. Create a folder called myteam in your home directory and change its permissions to
-### read only for the owner.
+### 11. Create a folder called myteam in your home directory and change its permissions to read only for the owner.
 ![11](https://github.com/menna-abdallah/Linux/assets/139376864/75fcf44c-cc15-462d-8bc1-ea9cb1d2d2a5)
 
 
@@ -50,3 +49,23 @@
 
 ### 13.Try to access (by cd command) the folder (myteam)
 ![13](https://github.com/menna-abdallah/Linux/assets/139376864/f88a2368-1eee-4201-a793-90cde87600c0)
+
+
+### 14.Using the command Line
+### a) Change the permissions of oldpasswd file to give owner read and write permissions and for group write and execute and execute only for the others (using chmod in 2 different ways).
+![14](https://github.com/menna-abdallah/Linux/assets/139376864/8ea017b6-0019-45ea-a835-fb4cbaaf5a8d)
+![14-1](https://github.com/menna-abdallah/Linux/assets/139376864/f81b665c-50d7-41c3-9767-469968a512cd)
+
+### b) Change your default permissions to be as above.
+![15](https://github.com/menna-abdallah/Linux/assets/139376864/848f0061-fb7e-463f-87d9-06b441a7e070)
+
+### c) What is the maximum permission a file can have, by default when it is just created? And what is that for directory?
+#### file >>> 666 >>> rw-rw-rw-
+#### directory >>> 777 >>> rwxrwxrwx
+
+### d) Change your default permissions to be no permission to everyone then create a directory and a file to verify.
+![16](https://github.com/menna-abdallah/Linux/assets/139376864/296f5550-007c-4e61-8f76-6b7d802776a9)
+
+
+### 17.What are the minimum permission needed for:
+### a) Copy a directory (permission for source directory and permissions for target parent directory)
