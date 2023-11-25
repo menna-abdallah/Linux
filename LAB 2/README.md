@@ -94,4 +94,10 @@
 #### dir >>> -w-
 
 
+### 18. Create a file with permission 444. Try to edit in it and to remove it? Note what happened.
+![17](https://github.com/menna-abdallah/Linux/assets/139376864/2676b1c0-6059-4618-86a8-910351844ef6)
 
+
+### 19. What is the difference between the “x” permission for a file and for a directory?
+#### On Files: allows the user to execute (run) the file as a program or script, if a user has execute permission on a file
+#### On Directories: if a user has execute permission on a directory, it allows the user to enter the directory and access its contents.
