@@ -24,14 +24,17 @@
 
 
 ### 7. Modify islam's account so the password expires after 30 days
-![UNFOUND]()![7](https://github.com/menna-abdallah/Linux/assets/139376864/dcae1a52-6105-41cb-81c6-39f24dec79d0)
+![7](https://github.com/menna-abdallah/Linux/assets/139376864/dcae1a52-6105-41cb-81c6-39f24dec79d0)
 
 
 ### 8. Lock bad user account so he can't log in
-![UNFOUND]()
+![UNFOUND]()![8](https://github.com/menna-abdallah/Linux/assets/139376864/8e2fae30-3759-4dad-bbdc-abd8ad902192)
+
 
 ### 9. Delete bad user account
-![UNFOUND]()
+![UNFOUND]()![9](https://github.com/menna-abdallah/Linux/assets/139376864/fe92918e-aa6a-4d4c-8624-d950ca6e56d6)
+
 
 ### 10. Delete the supplementary group called badgroup.
-![UNFOUND]()
+![UNFOUND]()![10](https://github.com/menna-abdallah/Linux/assets/139376864/7bfbf483-bcb8-4e58-bd06-79b723d54462)
+
