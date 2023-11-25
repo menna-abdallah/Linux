@@ -1,29 +1,18 @@
-## lab1
-
-### 1. Install CentOS /RHEL
-#### 
+## Lab1
 
 ### 2. What is the difference between cat and more command?
-####   cat: 
-#####   
-#####      
-#####       
-####   more:
-#####      
-#####       
+####   -cat: 
+#####  Displays the entire content of a file at once 
+#####  Suitable for viewing small files.      
+####   -more:
+#####  Suitable for viewing large files where you want to navigate through the content     
+#####  Used for viewing the content of a file one screen at a time.      
 
 ### 3. What is the difference between rm and rmdir using man?
-#### rm 
-##### 
-##### 
-##### 
-#####     
-#####     
-#### rmdir
-##### 
-#####
-##### 
-#####     
+#### -rm 
+##### can remove both files and directories (with the -r option). It can handle non-empty directories.    
+#### -rmdir
+##### specifically for removing empty directories. It doesn't have options for removing files or non-empty directories.    
 
 ### 4. Create the following hierarchy under your home directory:
 ![1](https://github.com/menna-abdallah/Linux/assets/139376864/e8896a9d-35a5-4a0c-879a-c6de44442939)
@@ -38,9 +27,9 @@
 
 
 #### c. The output of the command pwd was /home/user. Write the absolute and relative path for the file mycv
-## absolute:
+#### -absolute:
 #### ~/docs/mycv
-## relative:
+#### -relative:
 #### ./docs/mycv
 
 ### 5. Copy the /etc/passwd file to your home directory making its name is mypasswd.
