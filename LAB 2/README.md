@@ -38,3 +38,15 @@
 ### 10. Delete the supplementary group called badgroup.
 ![10](https://github.com/menna-abdallah/Linux/assets/139376864/7bfbf483-bcb8-4e58-bd06-79b723d54462)
 
+
+### 11. Create a folder called myteam in your home directory and change its permissions to
+### read only for the owner.
+![11](https://github.com/menna-abdallah/Linux/assets/139376864/75fcf44c-cc15-462d-8bc1-ea9cb1d2d2a5)
+
+
+### 12.Log out and log in by another user
+![12](https://github.com/menna-abdallah/Linux/assets/139376864/3e310b5a-4bf1-4f07-aa27-157fe72115c9)
+
+
+### 13.Try to access (by cd command) the folder (myteam)
+![13](https://github.com/menna-abdallah/Linux/assets/139376864/f88a2368-1eee-4201-a793-90cde87600c0)
