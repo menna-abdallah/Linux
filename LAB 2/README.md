@@ -69,3 +69,29 @@
 
 ### 17.What are the minimum permission needed for:
 ### a) Copy a directory (permission for source directory and permissions for target parent directory)
+#### source >>> r--
+#### destination >>> -w-
+
+### b) Copy a file (permission for source file and and permission for target parent directory)
+#### source file >>> r--
+#### source dir >>> --wx
+#### destination dir >>> --wx
+
+### c) Delete a file
+#### parent dir >>> -wx
+
+### d) Change to a directory
+####  source dir >>> -wx
+#### destination >>> -wx
+
+### e) List a directory content
+#### dir >>> r-x
+
+### f) View a file content
+#### dir >>> r--
+
+### g) Modify a file content
+#### dir >>> -w-
+
+
+
