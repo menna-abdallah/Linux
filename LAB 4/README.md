@@ -14,6 +14,6 @@
 ![6-1](https://github.com/menna-abdallah/Linux/assets/139376864/90686a6c-c96a-4ea5-9b40-4564975a179f)
 ### 7. Display the number of users who is logged now to the system.
 ![7](https://github.com/menna-abdallah/Linux/assets/139376864/fe5990ab-946d-4add-b42b-8f56e39eb119)
-8. Display lines 7 to line 10 of /etc/passwd file
+### 8. Display lines 7 to line 10 of /etc/passwd file
 ![8](https://github.com/menna-abdallah/Linux/assets/139376864/b57ae035-10d4-4344-b099-3ae9686a8060)
 
