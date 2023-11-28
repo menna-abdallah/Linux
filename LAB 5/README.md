@@ -15,4 +15,15 @@ compress: Generally provides lower compression ratios compared to gzip.
 #### 5. Starting from /etc, find files owned by root user.
 ![5](https://github.com/menna-abdallah/Linux/assets/139376864/1b7f7569-6c6d-4930-8047-65a583b415a1)
 #### 6. Find all directories in your home directory.
+![6](https://github.com/menna-abdallah/Linux/assets/139376864/52501fee-dc0b-434e-9672-30580eeeca4e)
+#### 7. Write a command to search for all files on the system that, its name is “.profile”.
+ /// sudo find / -type f -name ".profile" 
+#### 8. Identify the file types of the following: /etc/passwd, /dev/pts/0, /etc, /dev/sda
+![8](https://github.com/menna-abdallah/Linux/assets/139376864/c6eb1de7-d8fe-4c32-8131-8441d938499a)
+#### 9. List the inode numbers of /, /etc, /etc/hosts.
+![9](https://github.com/menna-abdallah/Linux/assets/139376864/19cd2a2d-10c7-4933-a965-2110396dd4b2)
+#### 10. Copy /etc/passwd to your home directory, use the commands diff and cmp, and Edit in the file you copied, and then use these commands again, and check the output.
 
+#### 11. Create a symbolic link of /etc/passwd in /boot.
+
+#### 12. Create a hard link of /etc/passwd in /boot. Could you? Why?
