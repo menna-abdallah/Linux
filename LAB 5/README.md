@@ -23,7 +23,10 @@ compress: Generally provides lower compression ratios compared to gzip.
 #### 9. List the inode numbers of /, /etc, /etc/hosts.
 ![9](https://github.com/menna-abdallah/Linux/assets/139376864/19cd2a2d-10c7-4933-a965-2110396dd4b2)
 #### 10. Copy /etc/passwd to your home directory, use the commands diff and cmp, and Edit in the file you copied, and then use these commands again, and check the output.
+![10](https://github.com/menna-abdallah/Linux-RedHat/assets/139376864/d45047cd-3118-4d54-a4bd-fcc4cfeb657a)
+![10-1](https://github.com/menna-abdallah/Linux-RedHat/assets/139376864/73807610-f4bb-44d7-83c2-e32d299810ef)
 
 #### 11. Create a symbolic link of /etc/passwd in /boot.
+![11](https://github.com/menna-abdallah/Linux-RedHat/assets/139376864/4ad00bd8-2b48-43a1-8ea6-53f3fabe43a5)
 
 #### 12. Create a hard link of /etc/passwd in /boot. Could you? Why?
