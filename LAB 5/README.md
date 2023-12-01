@@ -30,3 +30,6 @@ compress: Generally provides lower compression ratios compared to gzip.
 ![11](https://github.com/menna-abdallah/Linux-RedHat/assets/139376864/4ad00bd8-2b48-43a1-8ea6-53f3fabe43a5)
 
 #### 12. Create a hard link of /etc/passwd in /boot. Could you? Why?
+
+##### failed due to permissions 
+![12](https://github.com/menna-abdallah/Linux-RedHat/assets/139376864/3cf32325-fece-49f7-a615-e5c61a913a90)
